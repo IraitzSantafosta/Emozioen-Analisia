@@ -1,1 +1,3 @@
 # Emozioen-Analisia
+
+Lan honetan, Mastodon sare sozialeko mezuen emozioen analisia burutu dugu, klimaren aldaketari buruzko eztabaiden testuinguruan. Lehenik, ingelesezko datuak bildu ditugu eta aurreprozesamendu fase bat aplikatu dugu, non testuak garbitu eta anonimizatu ditugun. Ondoren, mezuak eskuz anotatu ditugu, eta emaitzak alderatzeko erreferentziazko etiketak sortu ditugu. Azterketa egiteko, lexikoi batean oinarritutako metodo bat eta transfer learning erabili ditugu, emozioen presentzia identifikatzeko. Azkenik, emaitzak ebaluatu ditugu F1-score eta bestelako neurriak erabiliz, gure anotazioak eta ereduaren aurreikuspenak konparatuz. Lortutako emaitzek sare sozialetan klimaren aldaketari buruzko diskurtso emozionala hobeto ulertzen lagundu dute.
